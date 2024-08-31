@@ -1,0 +1,18 @@
+{
+  "PREFIX": "alz",
+  "NETWORK_TYPE": "hubNetworking",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "85a0fc2c-a55e-48a7-8619-e9f4121547f8",
+  "IDENTITY_SUBSCRIPTION_ID": "85a0fc2c-a55e-48a7-8619-e9f4121547f8",
+  "MANAGEMENT_GROUP_ID": "alz",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "ALZTest",
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "LOGGING_RESOURCE_GROUP": "rg-alz-logging",
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-alz-connectivity",
+  "MANAGEMENT_SUBSCRIPTION_ID": "85a0fc2c-a55e-48a7-8619-e9f4121547f8",
+  "LOCATION": "uksouth",
+  "RELEASE_VERSION": "v0.19.0"
+}
