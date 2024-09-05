@@ -72,9 +72,6 @@
     "parDdosEnabled": {
       "value": false
     },
-    "parDdosPlanName": {
-      "value": "alz-ddos-plan"
-    },
     "parAzFirewallEnabled": {
       "value": true
     },
@@ -273,12 +270,6 @@
       }
     },
     "parBastionLock": {
-      "value": {
-        "kind": "None",
-        "notes": "This lock was created by the ALZ Bicep Hub Networking Module."
-      }
-    },
-    "parDdosLock": {
       "value": {
         "kind": "None",
         "notes": "This lock was created by the ALZ Bicep Hub Networking Module."
